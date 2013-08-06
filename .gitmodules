@@ -1,0 +1,3 @@
+[submodule "wav2png"]
+	path = wav2png
+	url = https://github.com/beschulz/wav2png.git
